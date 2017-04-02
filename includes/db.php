@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect("localhost","root","priety","ecommerce");
+$con = mysqli_connect("localhost","root"," ","ecommerce");
 
 if(mysqli_connect_errno()){
     
